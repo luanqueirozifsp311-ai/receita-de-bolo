@@ -3,6 +3,6 @@ ingredientes: ovos,
 xicara: acucar,
 xicarade: oleo,
 xicara2: farinha_trigo,
-xicarade: leite,
+xicarade: leite_2,
 colher: fermento
 };
